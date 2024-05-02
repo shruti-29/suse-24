@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cryptography/Exercise 1 Solution.md",
+                "file": "Cryptography/exercise01_crypto.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cryptography/Exercise 1 Solution.md",
+                "file": "Cryptography/exercise01_crypto.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cryptography/Exercise 1 Solution.md"
+                "file": "Cryptography/exercise01_crypto.pdf"
               }
             }
           }
@@ -156,10 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68aca7481a65a4e8",
+  "active": "399ae86ef7349cbf",
   "lastOpenFiles": [
-    "Cryptography/exercise01_crypto.pdf",
     "Cryptography/Exercise 1 Solution.md",
+    "Cryptography/exercise01_crypto.pdf",
     "Cryptography"
   ]
 }
