@@ -23,9 +23,11 @@
             "id": "399ae86ef7349cbf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Cryptography/exercise01_crypto.pdf"
+                "file": "Cryptography/Exercise 1 Solution.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cryptography/exercise01_crypto.pdf",
+                "file": "Cryptography/Exercise 1 Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cryptography/exercise01_crypto.pdf",
+                "file": "Cryptography/Exercise 1 Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cryptography/exercise01_crypto.pdf"
+                "file": "Cryptography/Exercise 1 Solution.md"
               }
             }
           }
@@ -159,8 +161,8 @@
   },
   "active": "399ae86ef7349cbf",
   "lastOpenFiles": [
-    "Cryptography/Exercise 1 Solution.md",
     "Cryptography/exercise01_crypto.pdf",
+    "Cryptography/Exercise 1 Solution.md",
     "Cryptography"
   ]
 }

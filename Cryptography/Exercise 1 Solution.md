@@ -1,6 +1,6 @@
 $$
 
-\frac{\partial f}{\partial t}
+\frac{\partial f}{\partial t}.  
 
 $$
 $$
